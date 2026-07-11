@@ -21,7 +21,7 @@
 <header>
 
     <h1 class="title">
-        こーちゃ
+         こーちゃ
     </h1>
 
     <p class="sub">
