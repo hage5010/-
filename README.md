@@ -23,4 +23,3 @@ button{
     background:#ffd43b;
     font-size:20px;
     cursor:pointer;
-}
